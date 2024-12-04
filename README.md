@@ -1,36 +1,48 @@
-Apartment Management System - Windows Forms Application
-Overview
-The Apartment Management System (AMS) is a Windows Forms application that helps property managers efficiently manage tenant profiles, rent payments, maintenance requests, and leases for apartment complexes. The application provides a user-friendly interface that simplifies administrative tasks and ensures smooth operations for property managers.
+# Apartment Management System - Windows Forms Application
 
-Features
-Tenant Profile Management:
-Add, edit, and delete tenant information, including personal details, contact information, and apartment assignment.
-Rent Payment Management:
-Record rent payments, track outstanding balances, and generate payment history.
-Option to mark payments as received and generate payment receipts.
-Lease Management:
-Manage lease agreements by recording start and end dates, rental amounts, and lease renewal information.
-Track lease expiration dates and send reminders for renewals.
-Maintenance Request Tracking:
-Tenants can submit maintenance requests, which can be tracked and managed by property managers.
-Set request statuses (e.g., Pending, In Progress, Completed).
-Reports:
-Generate reports for payments, tenant balances, maintenance requests, and lease renewals.
-User Authentication:
-Admin login to access the system, ensuring that only authorized users can manage tenant data and payments.
-Prerequisites
+## Overview
+The **Apartment Management System (AMS)** is a Windows Forms application designed to help property managers efficiently manage tenant profiles, rent payments, maintenance requests, and leases for apartment complexes. The application provides a user-friendly interface that simplifies administrative tasks and ensures smooth operations for property managers.
+
+---
+
+## Features
+- **Tenant Profile Management**:
+  - Add, edit, and delete tenant information, including personal details, contact information, and apartment assignment.
+- **Rent Payment Management**:
+  - Record rent payments, track outstanding balances, and generate payment history.
+  - Option to mark payments as received and generate payment receipts.
+- **Lease Management**:
+  - Manage lease agreements by recording start and end dates, rental amounts, and lease renewal information.
+  - Track lease expiration dates and send reminders for renewals.
+- **Maintenance Request Tracking**:
+  - Tenants can submit maintenance requests, which can be tracked and managed by property managers.
+  - Set request statuses (e.g., Pending, In Progress, Completed).
+- **Reports**:
+  - Generate reports for payments, tenant balances, maintenance requests, and lease renewals.
+- **User Authentication**:
+  - Admin login to access the system, ensuring that only authorized users can manage tenant data and payments.
+
+---
+
+## Prerequisites
+
 Before running the application, ensure you have the following software installed:
 
-Microsoft Visual Studio 2019 or later.
-.NET Framework 4.8 or later.
-SQL Server (or SQL Server Express) for database storage.
-Installation
-1. Clone or Download the Repository
+- **Microsoft Visual Studio 2019** or later.
+- **.NET Framework 4.8** or later.
+- **SQL Server** (or SQL Server Express) for database storage.
+
+---
+
+## Installation
+
+### 1. Clone or Download the Repository
 Clone the repository using Git or download the ZIP file:
 
-bash
-Copy code
+```bash
 git clone https://github.com/yourusername/ApartmentManagementSystem.git
+```
+
 2. Open the Project in Visual Studio
 Open Visual Studio.
 Select Open Project from the Start page or navigate to File > Open > Project/Solution.
