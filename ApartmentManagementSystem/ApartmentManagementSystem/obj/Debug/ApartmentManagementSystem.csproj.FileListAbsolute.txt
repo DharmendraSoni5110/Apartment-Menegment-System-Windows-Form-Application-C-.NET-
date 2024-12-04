@@ -1,0 +1,9 @@
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\bin\Debug\ApartmentManagementSystem.exe.config
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Debug\ApartmentManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Debug\ApartmentManagementSystem.btnRentPayments.resources
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Debug\ApartmentManagementSystem.LeaseManagementForm.resources
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Debug\ApartmentManagementSystem.MaintenanceRequestForm.resources
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Debug\ApartmentManagementSystem.Properties.Resources.resources
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Debug\ApartmentManagementSystem.RentPaymentForm.resources
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Debug\ApartmentManagementSystem.TenantManagementForm.resources
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Debug\ApartmentManagementSystem.csproj.GenerateResource.Cache
