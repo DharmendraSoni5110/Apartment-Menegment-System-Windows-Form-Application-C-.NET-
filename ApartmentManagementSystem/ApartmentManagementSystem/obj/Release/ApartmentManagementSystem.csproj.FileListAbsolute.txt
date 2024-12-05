@@ -1,0 +1,12 @@
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\bin\Release\ApartmentManagementSystem.exe.config
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\bin\Release\ApartmentManagementSystem.exe
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\bin\Release\ApartmentManagementSystem.pdb
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Release\ApartmentManagementSystem.btnRentPayments.resources
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Release\ApartmentManagementSystem.LeaseManagementForm.resources
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Release\ApartmentManagementSystem.MaintenanceRequestForm.resources
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Release\ApartmentManagementSystem.Properties.Resources.resources
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Release\ApartmentManagementSystem.RentPaymentForm.resources
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Release\ApartmentManagementSystem.TenantManagementForm.resources
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Release\ApartmentManagementSystem.csproj.GenerateResource.Cache
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Release\ApartmentManagementSystem.exe
+C:\Users\dharm\Desktop\ApartmentManagementSystem\ApartmentManagementSystem\obj\Release\ApartmentManagementSystem.pdb
